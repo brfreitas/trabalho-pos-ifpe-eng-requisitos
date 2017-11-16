@@ -12,4 +12,6 @@ Consolidar os conhecimentos e técnicas vistos na disciplina de engenharia de re
 
 # Links úteis
 * [Sintax Makrdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)
+* [Como fazer commit de arquivos via browser](https://github.com/blog/2105-upload-files-to-your-repositories)
+* [Como fazer a instalação do git](https://git-scm.com/book/pt-br/v1/Primeiros-passos-Instalando-Git)
 * [Documentos do projeto](/docs)
